@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="IncreMentor" max_length="40" name="x_17766_ncrmnto_incrementor" type="collection">
+        <element label="Current value" max_length="40" name="current_value" type="string"/>
+        <element label="End value" max_length="40" name="end_value" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="Start value" max_length="40" name="start_value" type="string"/>
+    </element>
+</database>

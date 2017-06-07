@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="start_value" label="Start value" language="en" table="x_17766_ncrmnto_incrementor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>start_value</element>
+            <help/>
+            <hint/>
+            <label>Start value</label>
+            <language>en</language>
+            <name>x_17766_ncrmnto_incrementor</name>
+            <plural>Start values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-07 03:22:25</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>7bdcad84db133200ac7f771ebf96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start value</sys_name>
+            <sys_package display_value="NcrMnto" source="x_17766_ncrmnto">fe972d40db133200ac7f771ebf96192b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NcrMnto">fe972d40db133200ac7f771ebf96192b</sys_scope>
+            <sys_update_name>sys_documentation_x_17766_ncrmnto_incrementor_start_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-07 03:22:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
